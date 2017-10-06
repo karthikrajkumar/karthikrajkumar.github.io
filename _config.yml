@@ -83,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Karthik Rajkumar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "A passionate developer, currently focusing on Deep learning"
+  location         : "Chennai area"
   email            :
   uri              :
   bitbucket        :
