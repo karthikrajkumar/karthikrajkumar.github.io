@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Karthiks Blog"
+title                    : "Karthik's Blog"
 title_separator          : "-"
 name                     : "Karthik Rajkumar"
 description              : "An amazing website."
@@ -87,7 +87,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A passionate developer, currently determined to learn Deep learning"
   location         : "Chennai area"
-  email            :
+  email            : "karthikrajkumar.kannan@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
