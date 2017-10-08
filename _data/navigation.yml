@@ -3,7 +3,7 @@ main:
   - title: "Profile"
     url: 
   - title: "General"
-    url: 
+    url: /general/
   - title: "Opensource contributions"
     url:
   - title: "Tech posts"
