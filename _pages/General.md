@@ -9,7 +9,7 @@ permalink: /general/
 ---
 
 
-{% for post in site.categories.Mozilla_GSOC %}
+{% for post in site.categories.General %}
     {% include archive-single.html %}
 {% endfor %}
 
