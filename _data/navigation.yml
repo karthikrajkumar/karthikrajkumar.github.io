@@ -6,7 +6,9 @@ main:
     url: /general/
   - title: "Opensource contributions"
     url:
-  - title: "Tech posts"
+  - title: "Tech blogs"
+    url:
+  - title: "DevOps"
     url:
   - title: "Deep learning"
     url:
