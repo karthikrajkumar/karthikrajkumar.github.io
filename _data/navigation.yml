@@ -2,9 +2,11 @@
 main:
   - title: "Profile"
     url: 
+  - title: "General"
+    url: 
   - title: "Opensource contributions"
     url:
-  - title: "Tech items"
+  - title: "Tech posts"
     url:
   - title: "Deep learning"
     url:
