@@ -1,4 +1,3 @@
-
 ---
 title: "A day of Hacking with API.AI"
 layout: single
