@@ -9,3 +9,5 @@ share: true
 related: true
 sitemap: false
 ---
+
+I had a chance to work in API.AI, a subsidiary of google products.
