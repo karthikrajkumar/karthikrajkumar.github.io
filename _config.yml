@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Karthik Rajkumar"
-  avatar           : "karthik.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/karthik.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A passionate developer and an opensource contributer, currently determined to learn Deep learning"
   location         : "Chennai area"
   email            : "karthikrajkumar.kannan@gmail.com"
