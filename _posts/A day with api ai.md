@@ -9,6 +9,7 @@ share: true
 related: true
 excerpt: "Working with api.ai"
 sitemap: false
+permalink: /general/api_ai.html
 ---
 
 I had a chance to work in API.AI, a subsidiary of google products.
