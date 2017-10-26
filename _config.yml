@@ -248,6 +248,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments:
+        provider: "disqus"
+        disqus:
+          shortname: "disqus_T6Iji9hfI7"
       share: true
       related: true
