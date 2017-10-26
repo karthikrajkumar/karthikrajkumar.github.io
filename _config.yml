@@ -251,6 +251,6 @@ defaults:
       comments: true
         provider: "disqus"
         disqus:
-          shortname: "https-karthikrajkumar-github-io"
+          shortname: "https://karthikrajkumar.github.io."
       share: true
       related: true
