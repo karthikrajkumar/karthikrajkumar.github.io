@@ -55,6 +55,7 @@ layout: default
       {% include post_pagination.html %}
     </div>
 
+     {% include disqus.html %}
     {% if site.comments.provider and page.comments %}
       {% include disqus.html %}
     {% endif %}
