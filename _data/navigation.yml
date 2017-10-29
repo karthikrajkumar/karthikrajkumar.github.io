@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Profile"
-    url: 
   - title: "General"
     url: /general/
   - title: "Opensource contributions"
