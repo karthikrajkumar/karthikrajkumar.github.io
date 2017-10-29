@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "General"
-    url: /categories/#general/
+    url: /general/
   - title: "Opensource contributions"
     url:
   - title: "Tech blogs"
-    url: /categories/#tech/
+    url: /tech/
   - title: "DevOps"
     url:
   - title: "Deep learning"
