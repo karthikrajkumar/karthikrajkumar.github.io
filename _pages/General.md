@@ -5,7 +5,7 @@ type: posts
 author_profile: true
 excerpt: "General Tech blogs"
 sitemap: false
-permalink: /categories/#general
+permalink: /general/
 ---
 
 
