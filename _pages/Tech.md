@@ -5,7 +5,7 @@ type: posts
 author_profile: true
 excerpt: "Tech related blogs"
 sitemap: false
-permalink: /tech/
+permalink: /categories/#tech/
 ---
 
 
